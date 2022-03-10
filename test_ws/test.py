@@ -14,3 +14,8 @@ for i in range(0,x):
     i += dt
 
 print("probability: {}".format(y1))
+
+
+G = ['A','b','C']
+for i,_ in enumerate(G):
+    print(_)
